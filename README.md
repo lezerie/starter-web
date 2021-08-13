@@ -1,10 +1,12 @@
 # Starter Web Report
 
 ## Introduction
-### Hi I am Lezerie
+Hi I am Lezerie
 
 ## Purpose
-### Work as a Software Engineer
+### World
+### Country
+### Province
 
 ## Deployment
 
